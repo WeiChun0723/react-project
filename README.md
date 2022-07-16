@@ -1,2 +1,4 @@
 # react-project
-Just to start learning React.
+Just a playground to start learning React.
+
+I also not sure when got chance to apply but eventually will.
